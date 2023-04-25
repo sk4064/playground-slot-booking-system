@@ -1,0 +1,21 @@
+.head{
+    display: block;
+    background-color: #B60034;
+    text-align: center;
+    clip-path: polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%);
+    width: 300px;
+    height: 45px;
+    margin: auto;
+    padding-top: 5px;
+    font-size: x-large;
+    margin-bottom: 10px;
+}
+/*@media screen and (max-width: 767px){
+    .head{
+        margin-left: 0px;
+        text-align: left;
+        width: 200px;
+        padding-left: 10px;
+        clip-path: polygon(00% 0%, 100% 0%, 90% 100%, 0% 100%);
+    }
+}*/
